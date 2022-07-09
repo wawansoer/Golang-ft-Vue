@@ -4,6 +4,8 @@
 - jalankan perinta 'npm run serve' pada direktori Vue FrontEnd untuk menjalankan Vue
 - jalankan perintah dibawah pada direktori 'Go Back End' untuk memasang paket Golang 
     
+    go get github.com/gofiber/fiber
+    
     go get github.com/badoux/checkmail
     
     go get github.com/jinzhu/gorm
