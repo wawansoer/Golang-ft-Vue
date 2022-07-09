@@ -2,7 +2,7 @@
 
 - jalankan command 'npm install' pada direktori Vue FrontEnd
 - jalankan perinta 'npm run serve' pada direktori Vue FrontEnd untuk menjalankan Vue
-- jalankan perintah dibawah untuk memasang paket Golang 
+- jalankan perintah dibawah pada direktori 'Go Back End' untuk memasang paket Golang 
     
     go get github.com/badoux/checkmail
     
